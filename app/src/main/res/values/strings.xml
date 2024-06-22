@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarGame</string>
+    <string name="score_format">Score: %d</string>
+</resources>
