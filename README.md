@@ -1,4 +1,4 @@
-# Farm Game
+# Car Game
 
 This is a simple Android game where the player controls a tractor to avoid obstacles. The game features a day/night mode toggle, score tracking, and a limited number of lives.
 
@@ -17,7 +17,7 @@ This is a simple Android game where the player controls a tractor to avoid obsta
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/farm-game.git
+   git clone https://github.com/your_username/car-game.git
    ```
 
 2. Open the project in Android Studio.
