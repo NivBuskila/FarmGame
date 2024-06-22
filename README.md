@@ -17,7 +17,7 @@ This is a simple Android game where the player controls a tractor to avoid obsta
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/car-game.git
+   git clone https://github.com/your_username/farm-game.git
    ```
 
 2. Open the project in Android Studio.
