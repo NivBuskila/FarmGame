@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="default_margin">15dp</dimen>
+    <dimen name="score_text_size">32sp</dimen>
+    <dimen name="bottom_margin_default">32dp</dimen>
+    <dimen name="hearts_width">180dp</dimen>
+    <dimen name="heart_dimention">50dp</dimen>
+    <dimen name="icon_default">60dp</dimen>
+    <dimen name="min_obstacle_spacing">100dp</dimen>
+    <dimen name="tractor_size">50dp</dimen>
+</resources>
