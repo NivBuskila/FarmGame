@@ -18,6 +18,15 @@ public class GameManager {
     private Random random;
     private int updateCounter;
 
+        public GameManager() {
+        this.rows = 5;
+        this.cols = 3;
+        this.tractorColumn = 1;
+        this.grid = new int[5][3];
+        this.random = new Random();
+        resetGame();
+    }
+    
     public GameManager(int rows, int cols) {
         this.rows = rows;
         this.cols = cols;
