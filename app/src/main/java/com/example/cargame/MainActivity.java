@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int ROWS = 8;
     private static final int COLS = 3;
+    private static final int LIVES = 3;
     private static final long UPDATE_DELAY = 500;
 
     private GameManager gameManager;
@@ -30,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        gameManager = new GameManager(ROWS, COLS);
+        gameManager = new GameManager(ROWS, COLS, LIVES);
         initializeViews();
         setupUpdateLoop();
     }
