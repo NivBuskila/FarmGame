@@ -9,9 +9,6 @@ This is a simple Android game where the player controls a tractor to avoid obsta
 - **Score Tracking**: Keep track of your score as you avoid obstacles.
 - **Lives System**: The player has three lives. If an obstacle is hit, one life is lost. The game restarts when all lives are lost.
 
-## Screenshots
-
-![Game Screenshot](path_to_screenshot.png)
 
 ## Installation
 
